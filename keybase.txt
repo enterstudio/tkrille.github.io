@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tkrille
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thomaskrille.de
+  * I am tkrille (https://keybase.io/tkrille) on keybase.
+  * I have a public key ASCrFZHzPowzDP2nndkYAkfgwaW4WDQ3NvwHgHYsE7Hm6go
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ab1591f33e8c330cfda79dd9180247e0c1a5b858343736fc0780762c13b1e6ea0a",
+            "host": "keybase.io",
+            "kid": "0120ab1591f33e8c330cfda79dd9180247e0c1a5b858343736fc0780762c13b1e6ea0a",
+            "uid": "288ca2f22859e7d8a68278b5709df519",
+            "username": "tkrille"
+        },
+        "service": {
+            "hostname": "thomaskrille.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1475501095,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1475501017,
+        "hash": "2a5a56c30d128f7a93b60b3427e1babfd062a666c1694ee671f90100c488b2c7f9b5d6b399616dd437434634794841b8b1f5d0f7c25be8f8e6dea4640e5b7e66",
+        "seqno": 661965
+    },
+    "prev": "97d0b9150dca85645c21be00e967976738fc9345a32d5d7ea8cb4c5f53484bae",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqxWR8z6MMwz9p53ZGAJH4MGluFg0Nzb8B4B2LBOx5uoKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYWIxNTkxZjMzZThjMzMwY2ZkYTc5ZGQ5MTgwMjQ3ZTBjMWE1Yjg1ODM0MzczNmZjMDc4MDc2MmMxM2IxZTZlYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYWIxNTkxZjMzZThjMzMwY2ZkYTc5ZGQ5MTgwMjQ3ZTBjMWE1Yjg1ODM0MzczNmZjMDc4MDc2MmMxM2IxZTZlYTBhIiwidWlkIjoiMjg4Y2EyZjIyODU5ZTdkOGE2ODI3OGI1NzA5ZGY1MTkiLCJ1c2VybmFtZSI6InRrcmlsbGUifSwic2VydmljZSI6eyJob3N0bmFtZSI6InRob21hc2tyaWxsZS5kZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzU1MDEwOTUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3NTUwMTAxNywiaGFzaCI6IjJhNWE1NmMzMGQxMjhmN2E5M2I2MGIzNDI3ZTFiYWJmZDA2MmE2NjZjMTY5NGVlNjcxZjkwMTAwYzQ4OGIyYzdmOWI1ZDZiMzk5NjE2ZGQ0Mzc0MzQ2MzQ3OTQ4NDFiOGIxZjVkMGY3YzI1YmU4ZjhlNmRlYTQ2NDBlNWI3ZTY2Iiwic2Vxbm8iOjY2MTk2NX0sInByZXYiOiI5N2QwYjkxNTBkY2E4NTY0NWMyMWJlMDBlOTY3OTc2NzM4ZmM5MzQ1YTMyZDVkN2VhOGNiNGM1ZjUzNDg0YmFlIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAXkwhrNGXOplv29Vg4wwn+aIsYKYMwjr6aBxsz/Mp9Jp/jxGHTQqjHiWlIIxdNMmLs7hyEYunfBpIVB/kSCWCB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILvGWQ7zd9bqHH+XMzrsVJw30kswiut4A00w/sYx1PNZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tkrille
+
+==================================================================
+
